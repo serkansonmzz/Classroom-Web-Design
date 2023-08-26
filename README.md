@@ -26,8 +26,7 @@
         </ul>
         <h2>Kurulum ve Kullanım</h2>
         <ol>
-            <li>Projeyi bilgisayarınıza klonlayın: <code>git clone https://github.com/Udemig/7HaftaIciHTMLCSS.git</code></li>
-            <li>Proje klasörüne gidin: <code>cd 7HaftaIciHTMLCSS</code></li>
+            <li>Projeyi bilgisayarınıza klonlayın: <code>git clone https://github.com/serkansonmzz/Classroom-Web-Design.git</code></li>
             <li>Projeyi tarayıcınızda açın: <code>index.html</code></li>
         </ol>
     </div>
